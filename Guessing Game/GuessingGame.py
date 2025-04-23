@@ -1,7 +1,7 @@
 #-----Imports-----#
 import random
 
-#-----Global variables-----#
+#-----Global Variables-----#
 #Generate random number between 1 and 10.
 random_number = random.randint(1,10)
 #Player guesses begins at 0 with each new game.
